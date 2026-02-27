@@ -1,1 +1,1 @@
-Sorting is O(log n) span, and I will prove them here in Python, C++, and OCaml.
+Sorting is O(log n) span, and I will prove them here in CUDA, SML, and OCaml.
